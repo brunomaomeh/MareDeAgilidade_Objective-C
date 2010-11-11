@@ -11,12 +11,15 @@
 
 @interface Conta : NSObject {
 	float saldo;
+	NSString * nome;
 }
+
+@property (readonly, nonatomic) float saldo;
+@property (retain, nonatomic) NSString * nome;
 
 - (BOOL) depositar: (float) valor;
 - (id) initWithSaldo: (float) valor;
 - (BOOL) sacar:(float)valor;
 - (BOOL) transferir: (float) valor para: (Conta *) destino;
-- (float) saldo;
 
 @end

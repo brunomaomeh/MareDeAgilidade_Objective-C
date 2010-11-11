@@ -8,8 +8,9 @@
 
 #import "Conta.h"
 
-
 @implementation Conta
+
+@synthesize saldo, nome;
 
 - (id) initWithSaldo:(float)valor {
 	if(self = [self init]) {
@@ -43,8 +44,9 @@
 	}
 }
 
-- (float) saldo {
-	return saldo;
+- (BOOL) dealloc {
+	[self.nome release];
+	[super dealloc];nhg
 }
 
 @end

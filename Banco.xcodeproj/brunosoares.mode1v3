@@ -319,7 +319,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>Banco.m</string>
+								<string>Conta.m</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -327,20 +327,20 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>Banco.m</string>
+										<string>Conta.m</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>6BC8FE1A128C3C1100184525</string>
+										<string>6BC8FE58128C5B8F00184525</string>
 										<key>history</key>
 										<array>
 											<string>6BC8FD89128C20E700184525</string>
 											<string>6BC8FD8A128C20E700184525</string>
 											<string>6BC8FD9F128C21E700184525</string>
-											<string>6BC8FDD1128C34B200184525</string>
-											<string>6BC8FE06128C3A9000184525</string>
-											<string>6BC8FE07128C3A9000184525</string>
-											<string>6BC8FE08128C3A9000184525</string>
+											<string>6BC8FE54128C5B8F00184525</string>
+											<string>6BC8FE55128C5B8F00184525</string>
+											<string>6BC8FE56128C5B8F00184525</string>
+											<string>6BC8FE57128C5B8F00184525</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -540,10 +540,10 @@
 	<array>
 		<string>6BC8FD92128C20E700184525</string>
 		<string>6BC8FD93128C20E700184525</string>
+		<string>1C78EAAD065D492600B07095</string>
 		<string>6BC8FD65128C1DC900184525</string>
 		<string>1CD10A99069EF8BA00B06720</string>
 		<string>6BC8FCB1128C1C6E00184525</string>
-		<string>1C78EAAD065D492600B07095</string>
 		<string>/Users/brunosoares/Documents/Banco/Banco.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
@@ -568,7 +568,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CD0528F0623707200166675</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>ContaTest.m</string>
+								<string>Conta.m</string>
 								<key>StatusBarVisibility</key>
 								<true/>
 							</dict>
@@ -928,7 +928,7 @@
 			<key>WindowToolGUID</key>
 			<string>1C78EAAD065D492600B07095</string>
 			<key>WindowToolIsVisible</key>
-			<true/>
+			<false/>
 		</dict>
 		<dict>
 			<key>Identifier</key>

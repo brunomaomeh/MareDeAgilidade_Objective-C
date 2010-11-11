@@ -23,6 +23,17 @@ int main (int argc, const char * argv[]) {
 	
 	NSLog(@"Classe do array -> %@", [contas class]);
 	
+	NSString * nome = [[NSString alloc] initWithFormat: @"Jose"];
+	NSLog(@"O retain count é %d", nome.retainCount);
+	
+	Conta * outraConta = [[Conta alloc] initWithSaldo:100];
+	outraConta.nome = nome;
+	
+	NSLog(@"agora o retain count é %d", nome.retainCount);
+	
+	[nome release];
+	[outraConta release];
+	
     [pool drain];
     return 0;
 }
