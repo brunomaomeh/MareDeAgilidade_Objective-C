@@ -44,9 +44,9 @@
 	}
 }
 
-- (BOOL) dealloc {
+- (void) dealloc {
 	[self.nome release];
-	[super dealloc];nhg
+	[super dealloc];
 }
 
 @end

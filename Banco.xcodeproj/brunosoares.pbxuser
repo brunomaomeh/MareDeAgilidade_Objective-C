@@ -83,18 +83,18 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 311171363;
-			PBXWorkspaceStateSaveDate = 311171363;
+			PBXPerProjectTemplateStateSaveDate = 311206438;
+			PBXWorkspaceStateSaveDate = 311206438;
 		};
 		perUserProjectItems = {
-			6BC8FD89128C20E700184525 /* PBXTextBookmark */ = 6BC8FD89128C20E700184525 /* PBXTextBookmark */;
-			6BC8FD8A128C20E700184525 /* PBXTextBookmark */ = 6BC8FD8A128C20E700184525 /* PBXTextBookmark */;
-			6BC8FD9F128C21E700184525 /* PlistBookmark */ = 6BC8FD9F128C21E700184525 /* PlistBookmark */;
-			6BC8FE54128C5B8F00184525 /* PBXTextBookmark */ = 6BC8FE54128C5B8F00184525 /* PBXTextBookmark */;
-			6BC8FE55128C5B8F00184525 /* PBXTextBookmark */ = 6BC8FE55128C5B8F00184525 /* PBXTextBookmark */;
-			6BC8FE56128C5B8F00184525 /* PBXTextBookmark */ = 6BC8FE56128C5B8F00184525 /* PBXTextBookmark */;
-			6BC8FE57128C5B8F00184525 /* PBXTextBookmark */ = 6BC8FE57128C5B8F00184525 /* PBXTextBookmark */;
-			6BC8FE58128C5B8F00184525 /* PBXTextBookmark */ = 6BC8FE58128C5B8F00184525 /* PBXTextBookmark */;
+			6BC8FD89128C20E700184525 = 6BC8FD89128C20E700184525 /* PBXTextBookmark */;
+			6BC8FD8A128C20E700184525 = 6BC8FD8A128C20E700184525 /* PBXTextBookmark */;
+			6BC8FD9F128C21E700184525 = 6BC8FD9F128C21E700184525 /* PlistBookmark */;
+			6BC8FE54128C5B8F00184525 = 6BC8FE54128C5B8F00184525 /* PBXTextBookmark */;
+			6BC8FE55128C5B8F00184525 = 6BC8FE55128C5B8F00184525 /* PBXTextBookmark */;
+			6BC8FE56128C5B8F00184525 = 6BC8FE56128C5B8F00184525 /* PBXTextBookmark */;
+			6BC8FE57128C5B8F00184525 = 6BC8FE57128C5B8F00184525 /* PBXTextBookmark */;
+			6BC8FE58128C5B8F00184525 = 6BC8FE58128C5B8F00184525 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 6BC8FC8D128C193A00184525 /* Source Control */;
 		userBuildSettings = {
@@ -205,6 +205,7 @@
 	};
 	6BC8FD8B128C20E700184525 /* SenTestCase.h */ = {
 		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
 		name = SenTestCase.h;
 		path = /Developer/Library/Frameworks/SenTestingKit.framework/Versions/A/Headers/SenTestCase.h;
 		sourceTree = "<absolute>";
@@ -218,7 +219,7 @@
 		);
 		name = "/Users/brunosoares/Documents/Banco/Test-Info.plist";
 		rLen = 0;
-		rLoc = 9223372036854775807;
+		rLoc = 9223372036854775808;
 	};
 	6BC8FE54128C5B8F00184525 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
